@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094312325125",
+    "project_id": "ayurcare-88431",
+    "storage_bucket": "ayurcare-88431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094312325125:android:28712dc9414e9183a3ec6c",
+        "android_client_info": {
+          "package_name": "com.example.ayurcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDehoPwmllDhg2D4AfjkIrI0Mvk-b72Paw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
